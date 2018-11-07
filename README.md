@@ -7,9 +7,11 @@ node install
 node index.js
 ```
 
-## Unzip the downloaded files
-```
-unzip '*.zip'
-```
+## Extract the .txt files with a common naming convention
+
+``
+node index.js
+``
+
 
 
